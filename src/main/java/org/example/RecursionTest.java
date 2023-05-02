@@ -45,6 +45,7 @@ public class RecursionTest {
         //System.out.println("The array sum " + addUp(a, 0, a.length-1));
 
         // alternatively we would sum up natural numbers as follows
+        System.out.println("The sum of natural numbers from 1 to 100 is " + sum(100));
         int n = 100;
         System.out.println("Sum of natural numbers from 1 to " + n + " is " + sum(n));
 
